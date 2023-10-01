@@ -2,7 +2,7 @@
 
 ![Blynk-react-test](https://raw.githubusercontent.com/Basiuk-Ivan/blynk-react-test/main/public/screen.png)
 
-React TODO page with the ability to add comments, choose a colour for comments, and save data after reloading
+React TODO page with the ability to add comments, choose a colour for comments, and save data after reloading.
 
 ### Languages and Tools:
 
